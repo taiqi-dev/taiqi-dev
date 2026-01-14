@@ -14,9 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Hi, I'm Taiqi! 👋
+
 <p align="center">
   <samp>
+Hi, I'm Taiqi! 👋 <br>
 🔥 Flexible, innovative, and logical video game developer with 3 years of experience. <br>
 ✨ Favorite Tech: Unity, C#, Lua, UE5, Blueprint & C++ ... <br>
 📧 wtq3555@gmail.com <br>
