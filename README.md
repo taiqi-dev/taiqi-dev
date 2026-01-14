@@ -4,6 +4,7 @@
   <samp>
 <b>Hi, I'm Taiqi! 👋 </b><br>
 <strong>Hi, I'm Taiqi! 👋 </strong><br>
+Hi, I'm Taiqi! 👋<br>
 🔥 Flexible, innovative, and logical video game developer with 3 years of experience. <br>
 ✨ Favorite Tech: Unity, C#, Lua, UE5, Blueprint & C++ ... <br>
 📧 wtq3555@gmail.com <br>
