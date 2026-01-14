@@ -14,13 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Hi, I'm Saad! 👋
+Hi, I'm Taiqi! 👋
 <p align="center">
   <samp>
-🔥 Flexible, innovative, and logical video game developer with 3 years of experience.
-✨ Favorite Tech: Unity, C#, Lua, UE5, Blueprint & C++ ...
-📧 wtq3555@gmail.com
-🎨 Portfolio: https://taiqi-dev.github.io
-💼 Linkedin: https://www.linkedin.com/in/taiqi/
+🔥 Flexible, innovative, and logical video game developer with 3 years of experience. <br>
+✨ Favorite Tech: Unity, C#, Lua, UE5, Blueprint & C++ ... <br>
+📧 wtq3555@gmail.com <br>
+🎨 Portfolio: https://taiqi-dev.github.io <br>
+💼 Linkedin: https://www.linkedin.com/in/taiqi/ <br>
   </samp>
 </p>
