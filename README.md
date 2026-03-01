@@ -2,6 +2,8 @@
  <hr></hr>
 <img src="https://raw.githubusercontent.com/taiqi-dev/taiqi-dev/master/Banner2.png"/>
  <hr></hr>
+<img src="https://raw.githubusercontent.com/taiqi-dev/taiqi-dev/master/Banner3.png"/>
+ <hr></hr>
 <h2 align="center">Hi, I'm Taiqi! 👋</h2>
 
 <div align="center">
